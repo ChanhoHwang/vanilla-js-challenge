@@ -1,0 +1,44 @@
+body {
+  background: no-repeat center;
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+  color: white;
+}
+
+.hidden {
+  display: none;
+}
+
+#clock {
+  font-size: 100px;
+  margin-bottom: 0px;
+}
+
+#name-form {
+  font-size: 30px;
+}
+
+input {
+  color: white;
+  font-size: 40px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 3px solid white;
+  outline: none;
+}
+
+#weather {
+  font-size: 25px;
+}
+
+#todo-list {
+  font-size: 20px;
+}
+
+button {
+  color: white;
+  font-size: 20px;
+  background-color: transparent;
+  border: none;
+}
